@@ -1,0 +1,6 @@
+@CdvRest_HostAddress = http://localhost:5147
+
+GET {{CdvRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/CdvRest
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/appsettings.Development.json
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/appsettings.json
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/CdvRest.dll
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/CdvRest.deps.json
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/CdvRest.runtimeconfig.json
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/CdvRest.pdb
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/Microsoft.OpenApi.dll
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/wiktoriazawislak/Desktop/vm_iot/CdvRest/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
